@@ -9,6 +9,6 @@ public class medialab
 {
       public static void main ()
   {
-    System.out.println("Welcome to your media library.");
+    System.out.println("Welcome to your media library, my dears.");
     }
 }
